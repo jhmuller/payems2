@@ -11,4 +11,5 @@ dependencies = [
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
     "plotnine>=0.15.1",
+    "scikit-learn>=1.7.2",
 ]

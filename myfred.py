@@ -7,9 +7,7 @@ import numpy as np
 from plotnine import ggplot
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-
-sys.path.append('../fredapi')
-from fredapi.fredapi import fred
+from fredapi import fred
 #import fredapi
 Fred = fred.Fred(api_key_file="fred_api_key")
 #Fred = fredapi.fred.Fred(api_key_file="fred_api_key")
