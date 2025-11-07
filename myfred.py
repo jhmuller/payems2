@@ -73,7 +73,7 @@ def get_id_data(fred_ids):
 
 
 if __name__ == "__main__":
-    fred_ids = pd.read_csv('fred_ids.csv', index_col=None, sep='|')
+    fred_ids = pd.read_csv('fred_ids.csv', index_col=None, sep=',')
     print(fred_ids)
     df = get_id_data(fred_ids)
     df.sort_values(by="date", ascending=True, inplace=True)
