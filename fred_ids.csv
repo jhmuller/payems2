@@ -1,18 +1,16 @@
-series_id|description
-PAYEMS|Total Nonfarm
-USPRIV| BLS private
-NPPTTL| ADP
-ICSA| Initial Claims
-CCSA| Continued Claims 
-JTS1000JOL| Job Openings: Total Private
-JTS1000HIL|  Hires: Total Private 
-JTS1000TSL|  Total Separations: Total Private 
-CSCICP03USM665S| OECD US Consumer Confidence
-BSCICP03USM665S| OECD Business Confidence
-UNRATE| Unemployment Rate
-UNEMPLOY| Unemployment Level
-CLF16OV| Civilian Labor Force
-UEMP27OV| Unemployed for 27 Weeks
-U6Rate| Unemployed plus Marginally Attached 
-CIVPART| Civilian Participation Rate
-LNS12032194| Part-Time for Econ Reasons
+series_id,description
+PAYEMS,Total Nonfarm
+USPRIV, BLS private
+ICSA, Initial Claims
+CCSA, Continued Claims 
+JTS1000JOL, Job Openings: Total Private
+JTS1000HIL,  Hires: Total Private 
+JTS1000TSL,  Total Separations: Total Private 
+UNRATE, Unemployment Rate
+UNEMPLOY, Unemployment Level
+CLF16OV, Civilian Labor Force
+UEMP27OV, Unemployed for 27 Weeks
+U6Rate, Unemployed plus Marginally Attached 
+CIVPART, Civilian Participation Rate
+LNS12032194, Part-Time for Econ Reasons
+ADPWNUSNERSA,ADP
